@@ -1,0 +1,42 @@
+/*
+Theme Name:  OceanWP Child
+Theme URI:  http://juliemathiassen.com/hovedopgave4semester/
+Description:  Tema til hovedopgaven paa 4. semester
+Author:  Julie Mathiassen
+Textdomain:  oceanwp
+Author URI:  http://juliemathiassen.com/hovedopgave4semester/
+Template:  oceanwp
+Version:  1.0
+License:  GNU General Public License v2 or later
+License URI: https://www.gnu.org/licenses/gpl-2.0.html                 
+*/
+
+.forside-nav span {
+	color: #272420;
+}
+.nye-biler-nav span {
+	color: #272420;
+}
+
+.brugte-biler-nav span {
+	color: #272420;
+}
+
+.leasing-nav span {
+	color: #272420;
+}
+
+.finansiering-nav span {
+	color: #272420;
+}
+
+.laer-mere-nav span {
+	color: #272420;
+}
+.service-nav span {
+	color: #272420;
+}
+
+.kontakt-nav span {
+	color: #272420;
+}
